@@ -1,1 +1,4 @@
-#Learning PostgreSQL - training resources and DBs for ie Coursera#
+# Learning PostgreSQL #
+
+Training resources and DBs for ie Coursera #
+
